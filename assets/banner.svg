@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="200" viewBox="0 0 900 200">
+<defs>
+<linearGradient id="g" x1="0" y1="0" x2="1" y2="0">
+<stop offset="0%" stop-color="#4f6ef7"/><stop offset="32%" stop-color="#7c5cf6"/>
+<stop offset="56%" stop-color="#a855f7"/><stop offset="82%" stop-color="#ec4899"/>
+<stop offset="100%" stop-color="#fb7185"/>
+</linearGradient>
+<pattern id="d" width="22" height="22" patternUnits="userSpaceOnUse">
+<circle cx="2" cy="2" r="1" fill="#ffffff" opacity="0.25"/>
+</pattern>
+</defs>
+<rect width="900" height="200" fill="url(#g)"/>
+<rect width="900" height="200" fill="url(#d)"/>
+<circle cx="90" cy="-40" r="130" fill="#ffffff" opacity="0.13"/>
+<circle cx="760" cy="180" r="95" fill="#fbbf24" opacity="0.22"/>
+<circle cx="620" cy="40" r="60" fill="#22d3ee" opacity="0.18"/>
+<text x="450" y="125" font-family="monospace" font-size="40" font-weight="bold" fill="#ffffff" text-anchor="middle">luozeze</text>
+<path d="M0,160 C120,190 260,145 400,163 C540,181 660,149 780,165 C840,173 880,167 900,161 L900,200 L0,200 Z" fill="#ffffff"/>
+</svg>
