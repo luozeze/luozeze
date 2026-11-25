@@ -62,13 +62,12 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=luozeze&show_icons=true&theme=github_light&hide_border=false&count_private=true&title_color=4f6ef7&icon_color=8b5cf6&text_color=334155&bg_color=ffffff" alt="github stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luozeze&layout=compact&theme=github_light&title_color=4f6ef7&text_color=334155&bg_color=ffffff" alt="top languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=luozeze&show_icons=true&hide_border=false&count_private=true&title_color=4f6ef7&icon_color=8b5cf6&text_color=334155&bg_color=ffffff" alt="github stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luozeze&layout=compact&title_color=4f6ef7&text_color=334155&bg_color=ffffff" alt="top languages" />
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=luozeze&theme=github_light&hide_border=false&stroke=4f6ef7&background=ffffff" alt="streak" />
-  <img src="https://github-profile-trophy.vercel.app/?username=luozeze&theme=github_light&column=5&no-frame=false&no-bg=false" alt="trophies" />
 </p>
 
 <p align="center">
